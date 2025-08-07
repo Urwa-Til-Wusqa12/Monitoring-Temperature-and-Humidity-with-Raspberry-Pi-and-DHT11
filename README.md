@@ -18,7 +18,7 @@
 
 File  Description:
 
- task1raspberry.py    | Reads real-time temperature and humidity data from the DHT11 sensor using Raspberry Pi GPIO pins and prints it to the terminal.
+ task1raspberry.py : Reads real-time temperature and humidity data from the DHT11 sensor using Raspberry Pi GPIO pins and prints it to the terminal.
 
 **⚙️ Setup Instructions:**
 
